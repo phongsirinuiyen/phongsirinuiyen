@@ -42,4 +42,4 @@
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-68025348%40up.ac.th-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:68025348@up.ac.th)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/phngs.siri.nuy.yen/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phongsiri-nuiyen-825a94414)
