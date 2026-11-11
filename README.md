@@ -41,6 +41,5 @@
 
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-68025348%40up.ac.th-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:68025348@up.ac.th)
-[![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://teams.cloud.microsoft/l/message/48:notes/1794381965471?context=%7B%22contextType%22%3A%22chat%22%2C%22oid%22%3A%228%3Aorgid%3Ab18e515c-061d-454f-953f-019e903b1b06%22%7D)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://facebook.com/](https://www.facebook.com/phngs.siri.nuy.yen/))
