@@ -1,12 +1,12 @@
 # Hi there, I'm Phongsiri Nuiyen 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student @ **University of Phayao**
-- 🚀 A self-motivated builder driven by curiosity and practical development
-- 📚 Solidifying core CS fundamentals (Data Structures, OOP, Database Systems)
-- 💻 Actively developing Full-Stack web applications and learning Cloud fundamentals
-- 🎯 Looking for opportunities to collaborate on impactful software projects and gain industry experience
-- 💬 Feel free to reach out for project collaborations or tech discussions!
+- 🎓 Computer Science Student @ University of Phayao
+- 🌱 An enthusiastic learner exploring the world of software development
+- 📚 Currently learning CS fundamentals (Data Structures, OOP, and Web Basics)
+- 💻 Practicing coding step-by-step through university coursework and small personal projects
+- 🎯 Looking forward to learning, improving my skills, and gaining new experiences
+- 💬 Always open to advice, guidance, and learning together!
 ---
 
 ### 🛠️ Tech Stack & Tools
