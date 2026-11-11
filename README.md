@@ -1,11 +1,12 @@
 # Hi there, I'm Phongsiri Nuiyen 👋
 
 ### 👨‍💻 About Me
-- 🎓 Computer Science Student at **University of Phayao**
-- 💡 Interested in **Software Engineering, Web Development, and Cloud Technologies**
-- 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
-- 💬 Ask me about **JavaScript, Python, and Web Frameworks**
-
+- 🎓 Computer Science Student @ **University of Phayao**
+- 🚀 A self-motivated builder driven by curiosity and practical development
+- 📚 Solidifying core CS fundamentals (Data Structures, OOP, Database Systems)
+- 💻 Actively developing Full-Stack web applications and learning Cloud fundamentals
+- 🎯 Looking for opportunities to collaborate on impactful software projects and gain industry experience
+- 💬 Feel free to reach out for project collaborations or tech discussions!
 ---
 
 ### 🛠️ Tech Stack & Tools
